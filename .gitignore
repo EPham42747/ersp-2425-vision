@@ -172,3 +172,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Sequential committing of results
+/ethan/runs/test2
+/ethan/runs/test3
+/ethan/runs/test4
+/ethan/runs/test5
+/ethan/runs/test6
+/ethan/runs/test7
+/ethan/runs/test8
+/ethan/runs/test9
+/ethan/runs/test10
+/ethan/runs/test11
+/ethan/runs/test12
+/ethan/runs/test13
