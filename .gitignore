@@ -174,5 +174,4 @@ cython_debug/
 .pypirc
 
 # Sequential committing of results
-/ethan/runs/test12
 /ethan/runs/test13
